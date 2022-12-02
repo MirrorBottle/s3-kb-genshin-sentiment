@@ -2,16 +2,15 @@
 
   <img src="./docs/genshin.png">
 
-  <h1>Genshin Impact</h1>
+  <h1>Sebuah Sentiment Analysis</h1>
   <h4>Melihat seberapa <i>retard</i> pemain Indonesia di game ini melalui review mereka....</h4>
 </div>
 <br><br>
 
 ## Tentang Projek
 
-| Judul             | ITCCM                               |
+| Judul             | Sentiment Analysis Review Genshin Impact                               |
 |-------------------|-------------------------------------|
-| Judul              | Sentiment Analysis Review Genshin Impact |
 | Tema              | Neural Language Processing (NLP) |
 | Matkul            | Kecerdasan Buatan                     |
 | Angkatan          | Semester 3 - 2021                   |
