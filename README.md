@@ -11,6 +11,7 @@
 
 | Judul             | Sentiment Analysis Review Genshin Impact                               |
 |-------------------|-------------------------------------|
+| Kelas              | Informatika A 21 - A1 - 2 |
 | Tema              | Neural Language Processing (NLP) |
 | Matkul            | Kecerdasan Buatan                     |
 | Angkatan          | Semester 3 - 2021                   |
